@@ -16,3 +16,12 @@ Immaculate implementation that shows a professional approach to game design. Mus
 Presentation
 
 A fully engaging presentation showing all key areas with confidence. Presentation design provides good amounts of information but in a clear and professional standard. Individual contributions have been highlighted using professional tools and standards detailing each week’s inputs.
+
+Job Roles:
+
+Harvey: audio editing 
+Louis: foley recording
+James:
+Ngozi:
+Toby:
+Jack:
